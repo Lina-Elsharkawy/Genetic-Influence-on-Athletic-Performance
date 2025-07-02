@@ -67,4 +67,4 @@ Prof. Ashraf Raouf & Eng. Nada Amr
 
 ## 📝 Paper
 
-For full research details, read the full [Research Paper 📄](link-to-research-pdf-or-file).
+For full research details, read the full [Research Paper 📄][(link-to-research-pdf-or-file)](https://github.com/Lina-Elsharkawy/Genetic-Influence-on-Athletic-Performance/blob/main/Research%20.pdf).
